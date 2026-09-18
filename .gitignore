@@ -1,0 +1,9 @@
+TextSummarizerAPP/.venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/.virtual_documents/
+Text Summarizer/*.csv
+Text Summarizer/saved_summary_model/
+Text Summarizer/results/
+Text Summarizer/anaconda_projects/
+TextSummarizerAPP/saved_summary_model/
