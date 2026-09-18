@@ -2,7 +2,8 @@
 
 A full-stack web application that leverages natural language processing to condense long conversations, chat logs, and transcripts into concise, actionable summaries. 
 
-![Text Summarizer Interface](Screenshot%202026-09-18%20143512.png)
+<img width="955" height="435" alt="Screenshot 2026-09-18 152143" src="https://github.com/user-attachments/assets/9bb0ff36-3425-4849-bb7d-815429dac47f" />
+
 
 ## 📌 Project Overview
 
